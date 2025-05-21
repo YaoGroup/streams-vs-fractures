@@ -2,8 +2,8 @@
 repository for work related to identification of streams and fractures on the Greenland Ice Sheet surface
 
 ## Model Results
+<img src="assets/training_viz.gif" alt="training_viz" width="480px" />
 <img src="assets/losses.png" alt="losses" width="480px" />
-<img src="assets/learning_viz.png" alt="learning_viz" width="480px" />
 
 ## How to Contribute
 
